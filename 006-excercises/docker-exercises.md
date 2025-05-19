@@ -111,7 +111,7 @@ A hands-on guide with progressive Docker exercises.
 
 ---
 
-## Module 4: Volumes and Persistence
+## Module 4: Volumes, Persistence and Multi Containers Apps
 
 ### [ ] **Exercise 4.1 – Using Named Volumes**
 
@@ -137,9 +137,21 @@ A hands-on guide with progressive Docker exercises.
     -v $(pwd)/mysite:/usr/share/nginx/html nginx
   ```
 
+### [ ] **Exercise 4.3 – Simple CRUD**
+
+- Enter the folder ```005-simple-crud```
+
+- Follow the instructions on ```README.md``` file to run a multi-container application with docker.
+
 ---
 
 ## Module 5: Docker Compose
+
+For docker compose exercises you'll will need to clone **Docker Compose Fundamentals** repository:
+
+```
+git clone https://github.com/kirkgo/docker-compose-fundamentals
+```
 
 ### [ ] **Exercise 5.1 – Defining Multiple Services**
 
