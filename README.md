@@ -1,2 +1,2 @@
 # containers-docker-fundamentals
-Repository for classroom about Containers and Docker Fundamentals
+Repository for classroom about Docker Fundamentals
