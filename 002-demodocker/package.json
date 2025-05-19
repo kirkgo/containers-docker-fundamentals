@@ -1,0 +1,12 @@
+{
+  "name": "container-web-test",
+  "private": true,
+  "version": "0.0.5",
+  "description": "Sample app to demonstrate the use of docker",
+  "main": "app.js",
+  "author": "Kirk Patrick <kirkgo@gmail.com.com>",
+  "dependencies": {
+    "express": "5.0.1",
+    "pug": "3.0.3"
+  }
+}
